@@ -1,4 +1,4 @@
-Attribute Module_Name = "XiuYueGuiZe"
+
 function XYGZ(a, b = 0){
 
 	let result;
